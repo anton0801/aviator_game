@@ -11,6 +11,27 @@
 		EE64F1F92BD4027700A86EFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F1F82BD4027700A86EFF /* ContentView.swift */; };
 		EE64F1FB2BD4027800A86EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE64F1FA2BD4027800A86EFF /* Assets.xcassets */; };
 		EE64F1FE2BD4027800A86EFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE64F1FD2BD4027800A86EFF /* Preview Assets.xcassets */; };
+		EE64F20E2BD4036B00A86EFF /* MenuGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F20D2BD4036B00A86EFF /* MenuGameView.swift */; };
+		EE64F2112BD4065F00A86EFF /* jsMath-cmbx10.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE64F2102BD4065F00A86EFF /* jsMath-cmbx10.ttf */; };
+		EE64F2142BD40AFA00A86EFF /* PlaneRescueGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2132BD40AFA00A86EFF /* PlaneRescueGameView.swift */; };
+		EE64F2162BD40B0400A86EFF /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2152BD40B0400A86EFF /* ShopView.swift */; };
+		EE64F2192BD40B1400A86EFF /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2182BD40B1400A86EFF /* SettingsView.swift */; };
+		EE64F21B2BD40B1E00A86EFF /* PlaneRescueLevelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F21A2BD40B1E00A86EFF /* PlaneRescueLevelsView.swift */; };
+		EE64F21D2BD40BDF00A86EFF /* RecordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F21C2BD40BDF00A86EFF /* RecordsView.swift */; };
+		EE64F2202BD4135200A86EFF /* LevelsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F21F2BD4135200A86EFF /* LevelsData.swift */; };
+		EE64F2222BD434AE00A86EFF /* RecordsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2212BD434AE00A86EFF /* RecordsData.swift */; };
+		EE64F2242BD437E000A86EFF /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2232BD437E000A86EFF /* Date.swift */; };
+		EE64F2262BD4386C00A86EFF /* PlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2252BD4386C00A86EFF /* PlayerData.swift */; };
+		EE64F2292BD446FF00A86EFF /* StoreItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2282BD446FF00A86EFF /* StoreItem.swift */; };
+		EE64F22B2BD5365700A86EFF /* PlaneRescueGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F22A2BD5365700A86EFF /* PlaneRescueGameScene.swift */; };
+		EE64F22F2BD55AD600A86EFF /* Expl.sks in Resources */ = {isa = PBXBuildFile; fileRef = EE64F22D2BD55AD500A86EFF /* Expl.sks */; };
+		EE64F2302BD55AD600A86EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE64F22E2BD55AD600A86EFF /* Assets.xcassets */; };
+		EE64F2332BD55C2400A86EFF /* claimCoins.wav in Resources */ = {isa = PBXBuildFile; fileRef = EE64F2322BD55C2400A86EFF /* claimCoins.wav */; };
+		EE64F2352BD55D4A00A86EFF /* explosionSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EE64F2342BD55D4A00A86EFF /* explosionSound.mp3 */; };
+		EE64F2372BD55D8600A86EFF /* GameDataLevels.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2362BD55D8600A86EFF /* GameDataLevels.swift */; };
+		EE64F2392BD572F100A86EFF /* PauseNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F2382BD572F100A86EFF /* PauseNode.swift */; };
+		EE64F23B2BD58BF400A86EFF /* WinNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F23A2BD58BF400A86EFF /* WinNode.swift */; };
+		EE64F23D2BD6B03800A86EFF /* LoseNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64F23C2BD6B03800A86EFF /* LoseNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +40,28 @@
 		EE64F1F82BD4027700A86EFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE64F1FA2BD4027800A86EFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE64F1FD2BD4027800A86EFF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE64F20D2BD4036B00A86EFF /* MenuGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuGameView.swift; sourceTree = "<group>"; };
+		EE64F2102BD4065F00A86EFF /* jsMath-cmbx10.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jsMath-cmbx10.ttf"; sourceTree = "<group>"; };
+		EE64F2122BD408B400A86EFF /* aviator-game-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "aviator-game-Info.plist"; sourceTree = SOURCE_ROOT; };
+		EE64F2132BD40AFA00A86EFF /* PlaneRescueGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaneRescueGameView.swift; sourceTree = "<group>"; };
+		EE64F2152BD40B0400A86EFF /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
+		EE64F2182BD40B1400A86EFF /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		EE64F21A2BD40B1E00A86EFF /* PlaneRescueLevelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaneRescueLevelsView.swift; sourceTree = "<group>"; };
+		EE64F21C2BD40BDF00A86EFF /* RecordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordsView.swift; sourceTree = "<group>"; };
+		EE64F21F2BD4135200A86EFF /* LevelsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelsData.swift; sourceTree = "<group>"; };
+		EE64F2212BD434AE00A86EFF /* RecordsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordsData.swift; sourceTree = "<group>"; };
+		EE64F2232BD437E000A86EFF /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		EE64F2252BD4386C00A86EFF /* PlayerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerData.swift; sourceTree = "<group>"; };
+		EE64F2282BD446FF00A86EFF /* StoreItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreItem.swift; sourceTree = "<group>"; };
+		EE64F22A2BD5365700A86EFF /* PlaneRescueGameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaneRescueGameScene.swift; sourceTree = "<group>"; };
+		EE64F22D2BD55AD500A86EFF /* Expl.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Expl.sks; sourceTree = "<group>"; };
+		EE64F22E2BD55AD600A86EFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EE64F2322BD55C2400A86EFF /* claimCoins.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = claimCoins.wav; sourceTree = "<group>"; };
+		EE64F2342BD55D4A00A86EFF /* explosionSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = explosionSound.mp3; sourceTree = "<group>"; };
+		EE64F2362BD55D8600A86EFF /* GameDataLevels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameDataLevels.swift; sourceTree = "<group>"; };
+		EE64F2382BD572F100A86EFF /* PauseNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseNode.swift; sourceTree = "<group>"; };
+		EE64F23A2BD58BF400A86EFF /* WinNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinNode.swift; sourceTree = "<group>"; };
+		EE64F23C2BD6B03800A86EFF /* LoseNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoseNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +94,18 @@
 		EE64F1F52BD4027700A86EFF /* aviator_game */ = {
 			isa = PBXGroup;
 			children = (
+				EE64F2312BD55C1A00A86EFF /* Audio */,
+				EE64F22C2BD55AAC00A86EFF /* Particles */,
+				EE64F2272BD446F600A86EFF /* Model */,
+				EE64F21E2BD4134300A86EFF /* Data */,
+				EE64F2122BD408B400A86EFF /* aviator-game-Info.plist */,
+				EE64F2062BD402D300A86EFF /* Scenes */,
+				EE64F2052BD402CD00A86EFF /* Ext */,
+				EE64F2042BD402C100A86EFF /* AppContent */,
 				EE64F1F62BD4027700A86EFF /* aviator_gameApp.swift */,
 				EE64F1F82BD4027700A86EFF /* ContentView.swift */,
 				EE64F1FA2BD4027800A86EFF /* Assets.xcassets */,
+				EE64F2102BD4065F00A86EFF /* jsMath-cmbx10.ttf */,
 				EE64F1FC2BD4027800A86EFF /* Preview Content */,
 			);
 			path = aviator_game;
@@ -65,6 +117,123 @@
 				EE64F1FD2BD4027800A86EFF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EE64F2042BD402C100A86EFF /* AppContent */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F20F2BD4037100A86EFF /* Levels */,
+				EE64F20C2BD4034D00A86EFF /* Settings */,
+				EE64F20B2BD4034700A86EFF /* Records */,
+				EE64F20A2BD4031700A86EFF /* Shop */,
+				EE64F2092BD4030E00A86EFF /* Game */,
+				EE64F2082BD4030300A86EFF /* Menu */,
+			);
+			path = AppContent;
+			sourceTree = "<group>";
+		};
+		EE64F2052BD402CD00A86EFF /* Ext */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2232BD437E000A86EFF /* Date.swift */,
+			);
+			path = Ext;
+			sourceTree = "<group>";
+		};
+		EE64F2062BD402D300A86EFF /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F22A2BD5365700A86EFF /* PlaneRescueGameScene.swift */,
+				EE64F2382BD572F100A86EFF /* PauseNode.swift */,
+				EE64F23A2BD58BF400A86EFF /* WinNode.swift */,
+				EE64F23C2BD6B03800A86EFF /* LoseNode.swift */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		EE64F2082BD4030300A86EFF /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F20D2BD4036B00A86EFF /* MenuGameView.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		EE64F2092BD4030E00A86EFF /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2132BD40AFA00A86EFF /* PlaneRescueGameView.swift */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		EE64F20A2BD4031700A86EFF /* Shop */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2152BD40B0400A86EFF /* ShopView.swift */,
+			);
+			path = Shop;
+			sourceTree = "<group>";
+		};
+		EE64F20B2BD4034700A86EFF /* Records */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F21C2BD40BDF00A86EFF /* RecordsView.swift */,
+			);
+			path = Records;
+			sourceTree = "<group>";
+		};
+		EE64F20C2BD4034D00A86EFF /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2182BD40B1400A86EFF /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		EE64F20F2BD4037100A86EFF /* Levels */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F21A2BD40B1E00A86EFF /* PlaneRescueLevelsView.swift */,
+			);
+			path = Levels;
+			sourceTree = "<group>";
+		};
+		EE64F21E2BD4134300A86EFF /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F21F2BD4135200A86EFF /* LevelsData.swift */,
+				EE64F2212BD434AE00A86EFF /* RecordsData.swift */,
+				EE64F2252BD4386C00A86EFF /* PlayerData.swift */,
+				EE64F2362BD55D8600A86EFF /* GameDataLevels.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		EE64F2272BD446F600A86EFF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2282BD446FF00A86EFF /* StoreItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EE64F22C2BD55AAC00A86EFF /* Particles */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F22D2BD55AD500A86EFF /* Expl.sks */,
+				EE64F22E2BD55AD600A86EFF /* Assets.xcassets */,
+			);
+			path = Particles;
+			sourceTree = "<group>";
+		};
+		EE64F2312BD55C1A00A86EFF /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				EE64F2322BD55C2400A86EFF /* claimCoins.wav */,
+				EE64F2342BD55D4A00A86EFF /* explosionSound.mp3 */,
+			);
+			path = Audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +294,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE64F2332BD55C2400A86EFF /* claimCoins.wav in Resources */,
+				EE64F22F2BD55AD600A86EFF /* Expl.sks in Resources */,
+				EE64F2352BD55D4A00A86EFF /* explosionSound.mp3 in Resources */,
+				EE64F2112BD4065F00A86EFF /* jsMath-cmbx10.ttf in Resources */,
 				EE64F1FE2BD4027800A86EFF /* Preview Assets.xcassets in Resources */,
 				EE64F1FB2BD4027800A86EFF /* Assets.xcassets in Resources */,
+				EE64F2302BD55AD600A86EFF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +311,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE64F21B2BD40B1E00A86EFF /* PlaneRescueLevelsView.swift in Sources */,
+				EE64F2202BD4135200A86EFF /* LevelsData.swift in Sources */,
+				EE64F2222BD434AE00A86EFF /* RecordsData.swift in Sources */,
+				EE64F23B2BD58BF400A86EFF /* WinNode.swift in Sources */,
+				EE64F23D2BD6B03800A86EFF /* LoseNode.swift in Sources */,
+				EE64F21D2BD40BDF00A86EFF /* RecordsView.swift in Sources */,
+				EE64F22B2BD5365700A86EFF /* PlaneRescueGameScene.swift in Sources */,
+				EE64F2142BD40AFA00A86EFF /* PlaneRescueGameView.swift in Sources */,
+				EE64F20E2BD4036B00A86EFF /* MenuGameView.swift in Sources */,
+				EE64F2372BD55D8600A86EFF /* GameDataLevels.swift in Sources */,
+				EE64F2262BD4386C00A86EFF /* PlayerData.swift in Sources */,
 				EE64F1F92BD4027700A86EFF /* ContentView.swift in Sources */,
+				EE64F2292BD446FF00A86EFF /* StoreItem.swift in Sources */,
+				EE64F2192BD40B1400A86EFF /* SettingsView.swift in Sources */,
+				EE64F2242BD437E000A86EFF /* Date.swift in Sources */,
+				EE64F2162BD40B0400A86EFF /* ShopView.swift in Sources */,
+				EE64F2392BD572F100A86EFF /* PauseNode.swift in Sources */,
 				EE64F1F72BD4027700A86EFF /* aviator_gameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +465,13 @@
 				DEVELOPMENT_TEAM = 4RSA42DBKQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "aviator-game-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,6 +479,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gamebig.aviator-game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -304,11 +499,13 @@
 				DEVELOPMENT_TEAM = 4RSA42DBKQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "aviator-game-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,6 +513,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gamebig.aviator-game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
